@@ -6,7 +6,7 @@ const Footer = () => {
             <footer id="footer">
                 <div className="container">
                     <a
-                        href="https://github.com/gulshancodes/redux-shopping-cart"
+                        href="https://github.com/atcodersairam/"
                         className="repo_link"
                         target="_blank"
                         rel="noreferrer"
@@ -21,7 +21,7 @@ const Footer = () => {
                             target="_blank"
                             rel="noreferrer"
                         >
-                            Gulshan Songara
+                           Sairam B N
                         </a>
                     </p>
                 </div>
