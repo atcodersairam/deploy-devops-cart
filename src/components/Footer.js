@@ -11,13 +11,13 @@ const Footer = () => {
                         target="_blank"
                         rel="noreferrer"
                     >
-                        github.com/gulshancodes/redux-shopping-cart
+                        https://github.com/atcodersairam/
                     </a>
 
                     <p>
                         Built by | &nbsp;
                         <a
-                            href="https://gulshansongara.netlify.app"
+                            href=""
                             target="_blank"
                             rel="noreferrer"
                         >
